@@ -13,7 +13,7 @@ public class Book {
 
     private String author;
 
-    // ✅ Escape reserved keyword year
+    Escape reserved keyword year
     @Column(name = "`year`")
     private int year;
 
